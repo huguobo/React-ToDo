@@ -1,11 +1,11 @@
-##React-ToDoList
+## React-ToDoList
 
-####A Simple todolist w
+#### A Simple todolist 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-####Getting Start
+#### Getting Start
 
 
 need to install git and node 

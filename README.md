@@ -16,6 +16,6 @@ git clone https://github.com/huguobo/React-ToDo.git
 npm install
 npm start
 ```
-open in brower http://lcoahost:3000
+open in broswer http://localhost:3000
 
 

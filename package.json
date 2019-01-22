@@ -1,6 +1,6 @@
 {
   "name": "@dp/test-pkg",
-  "version": "2.19.5",
+  "version": "2.19.6-0",
   "dependencies": {
     "react": "^15.6.1",
     "react-datalist": "^4.0.0",
